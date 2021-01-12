@@ -1,0 +1,12 @@
+@inproceedings{Han2020automatically,
+  author    = {Kai Han and Sylvestre-Alvise Rebuffi and Sebastien Ehrhardt and Andrea Vedaldi and Andrew Zisserman},
+  title     = {Automatically Discovering and Learning New Visual Categories with Ranking Statistics},
+  booktitle = {Proceedings of ICLR},
+  year      = {2020}
+}
+@inproceedings{Han2019learning,
+   author    = {Kai Han and Andrea Vedaldi and Andrew Zisserman},
+   title     = {Learning to Discover Novel Visual Categories via Deep Transfer Clustering},
+   booktitle = {Proceedings of ICCV},
+   year      = {2019}
+ }
