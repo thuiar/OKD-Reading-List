@@ -1,5 +1,5 @@
 # Open Knowledge Discovery Reading List
-This is an open knowledge discovery reading list maintained by THUIAR(https://github.com/thuiar) group. As real-world scenarios are usually open settings, it is crucial to discovery these open
+This is an open knowledge discovery reading list maintained by [THUIAR](https://github.com/thuiar) group. As real-world scenarios are usually open settings, it is crucial to discovery these open
 knowledge (e.g., user intents in dialogue system, new image category and so on) to improve the quality of machine learning systems. 
 
 Our list is still incomplete and the taxonomy may be inappropriate. We will keep adding related high-quality papers to improve the list. Any suggestions are welcome! (Contact: zhang-hl20@mails.tsinghua.edu.cn)
