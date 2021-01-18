@@ -46,7 +46,7 @@ Our list is still incomplete and the taxonomy may be inappropriate. We will keep
 
 * Hanlei Zhang, Hua Xu, Ting-En Lin and Rui Lv. 2021. **Discovering New Intents with Deep Aligned Clustering**. To appear at *Proceedings of AAAI 2021*. [[paper](https://arxiv.org/pdf/2012.08987.pdf)] [[code](https://github.com/thuiar/DeepAligned-Clustering)]
 * Nikhita Vedula, Nedim Lipka, Pranav Maneriker and Srinivasan Parthasarathy. **Open Intent Extraction from Natural Language Interactions**.  In *Proceedings of WWW 2020*. [[paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380268)]  
-* Ting-En Lin, Hua Xu and Hanlei Zhang. 2020. **Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement**.  In *Proceedings of AAAI 2020*. [[arXiv](https://arxiv.org/pdf/1911.08891.pdf)] [[code](https://github.com/thuiar/CDAC-plus)]
+* Ting-En Lin, Hua Xu and Hanlei Zhang. 2020. **Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement**.  In *Proceedings of AAAI 2020*. [[paper](https://arxiv.org/pdf/1911.08891.pdf)] [[code](https://github.com/thuiar/CDAC-plus)]
 * Hugh Perkins, Yi Yang. 2019. **Dialog Intent Induction with Deep Multi-View Clustering**.  In *Proceedings of EMNLP 2019*. [[paper](https://www.aclweb.org/anthology/D19-1413.pdf)] [[code](https://github.com/asappresearch/dialog-intent-induction)]
 * Iryna Haponchyk*, Antonio Uva*, Seunghak Yu, Olga Uryupina and Alessandro Moschitti. 2018. **Supervised Clustering of Questions into Intents for Dialog System Applications**. In *Proceedings of EMNLP 2018*. [[paper](https://www.aclweb.org/anthology/D18-1254.pdf)] [[dataset](https://ikernels-portal.disi.unitn.it/repository/intent-qa/)]
 * Padmasundari and Srinivas Bangalore. 2018. **Intent Discovery Through Unsupervised Semantic Text Clustering**. In *Proceedings of INTERSPEECH 2018*. [[paper](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2436.pdf)]
@@ -124,4 +124,4 @@ Our list is still incomplete and the taxonomy may be inappropriate. We will keep
 
 <h3 id="Dialogue_System">Dialogue System</h3> 
 
-* Amrita Saha, Mitesh M. Khapra and Karthik Sankaranarayanan. 2018. **Towards Building Large Scale Multimodal Domain-Aware Conversation Systems**.  In *Proceedings of AAAI 2018*. [[arXiv](https://arxiv.org/abs/1704.00200)] [[code](https://github.com/lipiji/dialogue-hred-vhred)] -->
+* Amrita Saha, Mitesh M. Khapra and Karthik Sankaranarayanan. 2018. **Towards Building Large Scale Multimodal Domain-Aware Conversation Systems**.  In *Proceedings of AAAI 2018*. [[paper](https://arxiv.org/abs/1704.00200)] [[code](https://github.com/lipiji/dialogue-hred-vhred)] -->
