@@ -1,5 +1,5 @@
 # Open Knowledge Discovery Reading List
-Papers for Open Knowledge Discovery.
+Papers for Open Knowledge Discovery. Maintained by THUIAR. Keep on updating...
 ## Contents
 * [Natural Language Processing](#Natural_Language_Processing)
     * [Unknown Intent Detection](#Intent_Detection)
