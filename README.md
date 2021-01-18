@@ -24,6 +24,7 @@ Papers for Open Knowledge Discovery.
 <h3 id="Out-of-domain_Detection">Out-of-domain Detection</h3> 
 
 * Yinhe Zheng, Guanyi Chen, and Minlie Huang. 2020. **Out-of-domain Detection for Natural Language Understanding in Dialog Systems**. *IEEE Transactions on Audio, Speech and Language Processing*. [[paper](https://ieeexplore.ieee.org/document/9052492)]
+* Larson Stefan, Mahendran Anish, Peper Joseph J, Clarke Christopher， Lee Andrew， Hill Parker， Kummerfeld Jonathan K， Leach Kevin， Laurenzano Michael A.， Tang Lingjia  and Mars Jason. 2019. **An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction**. In *Proceedings of EMNLP-IJCNLP 2019*. [[paper](https://www.aclweb.org/anthology/D19-1131.pdf)] [[dataset](https://github.com/clinc/oos-eval)]
 * Joo-Kyung Kim and Young-Bum Kim. 2018. **Joint Learning of Domain Classification and Out-of-Domain Detection with Dynamic Class Weighting for Satisficing False Acceptance Rates**.  In *Proceedings of INTERSPEECH 2018*. [[paper](https://arxiv.org/pdf/1807.00072.pdf)]
 * Seonghan Ryu, Sangjun Koo, Hwanjo Yu, and Gary Geunbae Lee. 2018. **Out-of-domain Detection based on Generative Adversarial Network**.  In *Proceedings of EMNLP 2018*. [[paper](https://www.aclweb.org/anthology/D18-1077.pdf)] 
 * Ian Lane, Tatsuya Kawahara, Tomoko Matsui and Satoshi Nakamura. **Out-of-Domain Utterance Detection Using Classification Confidences of Multiple Topics**. 2006. *IEEE Transactions on Audio, Speech, and Language Processing*. [[paper](https://ieeexplore.ieee.org/document/4032779)]
