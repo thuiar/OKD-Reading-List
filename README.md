@@ -18,6 +18,7 @@ Papers for Open Knowledge Discovery.
 
 <h3 id="Unknown_Intent_Detection">Unknown Intent Detection</h3> 
 
+* Hanlei Zhang, Hua Xu and Ting-En Lin. 2021. **Deep Open Intent Classification with Adaptive Decision Boundary**. To appear at *Proceedings of AAAI 2021*. [[paper](hhttps://arxiv.org/pdf/2012.10209.pdf)] [[code](https://github.com/thuiar/Adaptive-Decision-Boundary)]
 * Guangfeng Yan, Lu Fan, Qimai Li, Han Liu, Xiaotong Zhang, Xiao-Ming Wu and Albert Y.S. Lam. 2020. **Unknown Intent Detection Using Gaussian Mixture Model with an Application to Zero-shot Intent Classification**. In *Proceedings of ACL 2020*. [[paper](https://www.aclweb.org/anthology/2020.acl-main.99.pdf)]
 * Ting-En Lin and Hua Xu. 2019. **Deep Unknown Intent Detection with Margin Loss**. In *Proceedings of ACL 2019*. [[paper](https://www.aclweb.org/anthology/P19-1548.pdf)] [[code](https://github.com/thuiar/DeepUnkID)]
 * Congying Xia, Chenwei Zhang, Xiaohui Yan, Yi Chang and Philip S. Yu. 2018. **Zero-shot User Intent Detection via Capsule Neural Networks**. In *Proceedings of EMNLP 2018*. [[paper](https://www.aclweb.org/anthology/D18-1348.pdf)] [[code](https://github.com/congyingxia/ZeroShotCapsule)]
@@ -39,6 +40,7 @@ Papers for Open Knowledge Discovery.
 
 <h3 id="Intent_Discovery">Intent Discovery</h3> 
 
+* Hanlei Zhang, Hua Xu, Ting-En Lin and Rui Lv. 2021. **Discovering New Intents with Deep Aligned Clustering**. To appear at *Proceedings of AAAI 2021*. [[paper](https://arxiv.org/pdf/2012.08987.pdf)] [[code](https://github.com/thuiar/DeepAligned-Clustering)]
 * Nikhita Vedula, Nedim Lipka, Pranav Maneriker and Srinivasan Parthasarathy. **Open Intent Extraction from Natural Language Interactions**.  In *Proceedings of WWW 2020*. [[paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380268)]  
 * Ting-En Lin, Hua Xu and Hanlei Zhang. 2020. **Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement**.  In *Proceedings of AAAI 2020*. [[arXiv](https://arxiv.org/pdf/1911.08891.pdf)] [[code](https://github.com/thuiar/CDAC-plus)]
 * Hugh Perkins, Yi Yang. 2019. **Dialog Intent Induction with Deep Multi-View Clustering**.  In *Proceedings of EMNLP 2019*. [[paper](https://www.aclweb.org/anthology/D19-1413.pdf)] [[code](https://github.com/asappresearch/dialog-intent-induction)]
