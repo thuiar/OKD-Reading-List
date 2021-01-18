@@ -1,5 +1,5 @@
 # Open Knowledge Discovery Reading List
-Papers for Open Knowledge Discovery.
+Papers for Open Knowledge Discovery. Maintained by THUIAR. Keep on updating...
 ## Contents
 * [Natural Language Processing](#Natural_Language_Processing)
     * [Unknown Intent Detection](#Intent_Detection)
@@ -34,9 +34,9 @@ Papers for Open Knowledge Discovery.
 
 <h3 id="Open_World_Classification">Open World Classification</h3> 
 
-* **Open-world Learning and Application to Product Classification**. 2019. Hu Xu, Bing Liu, Lei Shu and P. Yu. In *Proceedings of WWW 2019*. [[paper](https://arxiv.org/abs/1809.06004)] [[code](https://github.com/howardhsu/Meta-Open-World-Learning)]
-* **DOC: Deep Open Classification of Text Documents**. 2017. Lei Shu, Hu Xu and Bing Liu. In *Proceedings of EMNLP 2017*. [[paper](https://www.aclweb.org/anthology/D17-1314.pdf)] [[code](https://github.com/leishu02/EMNLP2017_DOC)]
-* **Breaking the Closed World Assumption in Text Classification**. 2016. Geli Fei and Bing Liu. In *Proceedings of HLT-NAACL 2016*. [[paper](https://www.aclweb.org/anthology/N16-1061.pdf)] 
+* Hu Xu, Bing Liu, Lei Shu and P. Yu. **Open-world Learning and Application to Product Classification**. 2019.  In *Proceedings of WWW 2019*. [[paper](https://arxiv.org/abs/1809.06004)] [[code](https://github.com/howardhsu/Meta-Open-World-Learning)]
+* Lei Shu, Hu Xu and Bing Liu. **DOC: Deep Open Classification of Text Documents**. 2017.  In *Proceedings of EMNLP 2017*. [[paper](https://www.aclweb.org/anthology/D17-1314.pdf)] [[code](https://github.com/leishu02/EMNLP2017_DOC)]
+* Geli Fei and Bing Liu. **Breaking the Closed World Assumption in Text Classification**. 2016.  In *Proceedings of HLT-NAACL 2016*. [[paper](https://www.aclweb.org/anthology/N16-1061.pdf)] 
 
 <h3 id="Intent_Discovery">Intent Discovery</h3> 
 
@@ -64,7 +64,17 @@ Papers for Open Knowledge Discovery.
 
 <h3 id="Open_Set_Recognition">Open Set Recognition / Open World Classification</h3> 
 
+* Hong-Ming Yang, Xu-Yao Zhang, Fei Yin, Qing Yang and Cheng-Lin Liu. 2020. **Convolutional Prototype Network for Open Set Recognition**. *IEEE Transactions on Pattern Analysis and Machine Intelligence*.[[paper](https://ieeexplore.ieee.org/abstract/document/9296325)] 
+* Chuanxing Geng and Songcan Chen. **Collective decision for open set recognition**. 2020.*IEEE Transactions on Knowledge and Data Engineering*. [[paper](https://ieeexplore.ieee.org/abstract/document/9296325)] 
+* Pramuditha Perera, Vlad I. Morariu, Rajiv Jain, Varun Manjunatha, Curtis Wigington, Vicente Ordonez and Vishal M. Patel. 2020. **Generative-discriminative Feature Representations for Open-set Recognition**. In *Proceedings of CVPR 2020*. [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Perera_Generative-Discriminative_Feature_Representations_for_Open-Set_Recognition_CVPR_2020_paper.pdf)] 
+* Xin Sun, Zhenning Yang, Chi Zhang, Guohao Peng and Keck-Voon Ling. 2020. **Conditional Gaussian Distribution Learning for Open Set Recognition**. In *Proceedings of CVPR 2020*. [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Conditional_Gaussian_Distribution_Learning_for_Open_Set_Recognition_CVPR_2020_paper.pdf)] [[code](https://github.com/BraveGump/CGDL-for-Open-Set-Recognition)]
+* Bo Liu, Hao Kang, Haoxiang Li, Gang Hua and Nuno Vasconcelos. 2020. **Few-Shot Open-Set Recognition Using Meta-Learning**. In *Proceedings of CVPR 2020*. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Few-Shot_Open-Set_Recognition_Using_Meta-Learning_CVPR_2020_paper.pdf)]
+* Guangyao Chen, Limeng Qiao, Yemin Shi, Peixi Peng, Jia Li, Tiejun Huang, Shiliang Pu and Yonghong Tian. 2020. **Learning Open Set Network with Discriminative Reciprocal Points**. In *Proceedings of ECCV 2020*. [[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-58580-8_30)]
+* Qing Yu, Daiki Ikami, Go Irie and Kiyoharu Aizawa. 2020. **Multi-Task Curriculum Framework for Open-Set Semi-Supervised Learning**. In *Proceedings of ECCV 2020*.[[paper](https://link.springer.com/chapter/10.1007/978-3-030-58610-2_26)]
 * Liu Ziwei, Miao Zhongqi, Zhan Xiaohang, Wang Jiayun, Gong Boqing and Yu Stella X. 2019. **Large-Scale Long-Tailed Recognition in an Open World**. In *Proceedings of CVPR 2019*. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Large-Scale_Long-Tailed_Recognition_in_an_Open_World_CVPR_2019_paper.pdf)] [[code](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)]
+* Ryota Yoshihashi, Wen Shao, Rei Kawakami, Shaodi You, Makoto Iida and Takeshi Naemura. 2019. **Classification-Reconstruction Learning for Open-Set Recognition**. In *Proceedings of CVPR 2019*. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yoshihashi_Classification-Reconstruction_Learning_for_Open-Set_Recognition_CVPR_2019_paper.pdf)] [[code](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)]
+* Pramuditha Perera and Vishal M. Patel. 2019. **Deep Transfer Learning for Multiple Class Novelty Detection**. In *Proceedings of CVPR 2019*. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Perera_Deep_Transfer_Learning_for_Multiple_Class_Novelty_Detection_CVPR_2019_paper.pdf)] [[code](https://github.com/PramuPerera/TransferLearningNovelty)]
+* Poojan Oza and Vishal M. Patel. 2019. **C2AE: Class Conditioned Auto-Encoder for Open-set Recognition**. In *Proceedings of CVPR 2019*. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Oza_C2AE_Class_Conditioned_Auto-Encoder_for_Open-Set_Recognition_CVPR_2019_paper.pdf)]
 * Lei Shu, Hu Xu and Bing Liu. 2018. **Unseen Class Discovery in Open-world Classification**. arXiv. [[paper](https://arxiv.org/pdf/1801.05609.pdf)] 
 * Yang Yu, Wei-Yang Qu, Nan Li, Zimin Guo. 2017.  **Open-Category Classification by Adversarial Sample Generation**. In *Proceedings of IJCAI 2017*. [[paper](https://arxiv.org/abs/1705.08722)] [[code](https://github.com/eyounx/ASG)]
 * Manuel Gunther, Steve Cruz, Ethan M. Rudd, Terrance E. Boult. 2017.  **Toward Open-Set Face Recognition**. In *Proceedings of CVPR 2017 Workshop*.[[paper](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w6/papers/Gunther_Toward_Open-Set_Face_CVPR_2017_paper.pdf)] [[code](https://github.com/abhijitbendale/OSDN)]
