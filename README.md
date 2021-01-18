@@ -6,7 +6,8 @@ Papers for Open Knowledge Discovery.
     * [Out-of-domain Detection](#Out-of-domain_Detection)
     * [Intent Discovery](#Intent_Discovery)
  * [Computer Vision](#Computer_Vision)
-    * [Open Set Recognition](#Open_Set_Recognition)
+    * [Out of Domain Detection](#Out_of_Domain_Detection)
+    * [Open Set Recognition / Open World Classification](#Open_Set_Recognition)
     * [New Category Discovery](#New_Category_Discovery)
  * [Multimodality](#Multimodality)
     * [Dialogue System](#Dialogue_System) 
@@ -31,7 +32,8 @@ Papers for Open Knowledge Discovery.
 
 <h3 id="Open_World_Classification">Open World Classification</h3> 
 
-* **DOC: Deep Open Classification of Text Documents**. Lei Shu, Hu Xu and Bing Liu. In *Proceedings of EMNLP 2017*. [[paper](https://www.aclweb.org/anthology/D17-1314.pdf)] [[code](https://github.com/leishu02/EMNLP2017_DOC)]
+* **DOC: Deep Open Classification of Text Documents**. 2017. Lei Shu, Hu Xu and Bing Liu. In *Proceedings of EMNLP 2017*. [[paper](https://www.aclweb.org/anthology/D17-1314.pdf)] [[code](https://github.com/leishu02/EMNLP2017_DOC)]
+* **Breaking the Closed World Assumption in Text Classification**. 2016. Geli Fei and Bing Liu. In *Proceedings of HLT-NAACL 2016*. [[paper](https://www.aclweb.org/anthology/N16-1061.pdf)] 
 
 <h3 id="Intent_Discovery">Intent Discovery</h3> 
 
@@ -47,10 +49,20 @@ Papers for Open Knowledge Discovery.
 
 <h2 id="Computer_Vision">Computer Vision</h2> 
 
-<h3 id="Open_Set_Recognition">Open Set Recognition</h3> 
+<h3 id="Out_of_Domain_Detection">Out-of-domain Detection</h3> 
 
-* Bendale Abhijit and Boult Terrance E. 2016. **Towards Open Set Deep Networks**. In *Proceedings of CVPR 2016*. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Bendale_Towards_Open_Set_CVPR_2016_paper.pdf)] [[code](https://github.com/abhijitbendale/OSDN)]
-* Bendale Abhijit and Boult Terrance E. 2015. **Towards Open World Recognition**. In *Proceedings of CVPR 2015*. [[paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Bendale_Towards_Open_World_2015_CVPR_paper.pdf)] [[code](https://github.com/abhijitbendale/OWR)]
+* Yen-Chang Hsu, Yilin Shen, Hongxia Jin, Zsolt Kira. 2020. **Generalized ODIN: Detecting Out-of-distribution Image without Learning from Out-of-distribution Data**.  In *Proceedings of CVPR 2020*. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hsu_Generalized_ODIN_Detecting_Out-of-Distribution_Image_Without_Learning_From_Out-of-Distribution_Data_CVPR_2020_paper.pdf)] 
+* Alireza Shafaei, Mark Schmidt and  James J. Little. 2019. **A Less Biased Evaluation of Out-of-distribution Sample Detectors**. In *Proceedings of BMVC 2019*. [[paper](https://bmvc2019.org/wp-content/uploads/papers/0333-paper.pdf)] [[code](https://github.com/ashafaei/OD-test)]
+
+
+<h3 id="Open_Set_Recognition">Open Set Recognition / Open World Classification</h3> 
+
+* Yang Yu, Wei-Yang Qu, Nan Li, Zimin Guo. 2017.  **Open-Category Classification by Adversarial Sample Generation**. [[paper](https://arxiv.org/abs/1705.08722)] [[code](https://github.com/eyounx/ASG)]
+* Manuel Gunther, Steve Cruz, Ethan M. Rudd, Terrance E. Boult. 2017.  **Toward Open-Set Face Recognition**. [[paper](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w6/papers/Gunther_Toward_Open-Set_Face_CVPR_2017_paper.pdf)] [[code](https://github.com/abhijitbendale/OSDN)]
+* Abhijit Bendale and Terrance E. Boult. 2016. **Towards Open Set Deep Networks**. In *Proceedings of CVPR 2016*. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Bendale_Towards_Open_Set_CVPR_2016_paper.pdf)] [[code](https://github.com/abhijitbendale/OSDN)]
+* Abhijit Bendale and Terrance E. Boult . 2015. **Towards Open World Recognition**. In *Proceedings of CVPR 2015*. [[paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Bendale_Towards_Open_World_2015_CVPR_paper.pdf)] [[code](https://github.com/abhijitbendale/OWR)]
+
+
 
 <h3 id="New_Category_Discovery">New Category Discovery</h3> 
 
