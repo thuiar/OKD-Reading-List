@@ -35,7 +35,7 @@ Our list is still incomplete and the taxonomy may be inappropriate. We will keep
 * Larson Stefan, Mahendran Anish, Peper Joseph J, Clarke Christopher， Lee Andrew， Hill Parker， Kummerfeld Jonathan K， Leach Kevin， Laurenzano Michael A.， Tang Lingjia  and Mars Jason. 2019. **An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction**. In *Proceedings of EMNLP-IJCNLP 2019*. [[paper](https://www.aclweb.org/anthology/D19-1131.pdf)] [[dataset](https://github.com/clinc/oos-eval)]
 * Joo-Kyung Kim and Young-Bum Kim. 2018. **Joint Learning of Domain Classification and Out-of-Domain Detection with Dynamic Class Weighting for Satisficing False Acceptance Rates**.  In *Proceedings of INTERSPEECH 2018*. [[paper](https://arxiv.org/pdf/1807.00072.pdf)]
 * Seonghan Ryu, Sangjun Koo, Hwanjo Yu, and Gary Geunbae Lee. 2018. **Out-of-domain Detection based on Generative Adversarial Network**.  In *Proceedings of EMNLP 2018*. [[paper](https://www.aclweb.org/anthology/D18-1077.pdf)] 
-* Ian Lane, Tatsuya Kawahara, Tomoko Matsui and Satoshi Nakamura. **Out-of-Domain Utterance Detection Using Classification Confidences of Multiple Topics**. 2006. *IEEE Transactions on Audio, Speech, and Language Processing*. [[paper](https://ieeexplore.ieee.org/document/4032779)]
+* Ian Lane, Tatsuya Kawahara, Tomoko Matsui and Satoshi Nakamura. 2006. **Out-of-Domain Utterance Detection Using Classification Confidences of Multiple Topics**. *IEEE Transactions on Audio, Speech, and Language Processing*. [[paper](https://ieeexplore.ieee.org/document/4032779)]
 
 <h3 id="Open_World_Classification">Open World Classification</h3> 
 
@@ -91,9 +91,9 @@ Our list is still incomplete and the taxonomy may be inappropriate. We will keep
 * Manuel Gunther, Steve Cruz, Ethan M. Rudd, Terrance E. Boult. 2017.  **Toward Open-Set Face Recognition**. In *Proceedings of CVPR 2017 Workshop*.[[paper](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w6/papers/Gunther_Toward_Open-Set_Face_CVPR_2017_paper.pdf)] [[code](https://github.com/abhijitbendale/OSDN)]
 * Abhijit Bendale and Terrance E. Boult. 2016. **Towards Open Set Deep Networks**. In *Proceedings of CVPR 2016*. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Bendale_Towards_Open_Set_CVPR_2016_paper.pdf)] [[code](https://github.com/abhijitbendale/OSDN)]
 * Abhijit Bendale and Terrance E. Boult . 2015. **Towards Open World Recognition**. In *Proceedings of CVPR 2015*. [[paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Bendale_Towards_Open_World_2015_CVPR_paper.pdf)] [[code](https://github.com/abhijitbendale/OWR)]
-* Walter J. Scheirer, Lalit P. Jain and Terrance E. Boult. **Probability Models for Open Set Recognition**. 2014. *IEEE Transactions on Pattern Analysis and Machine Intelligence*.[[paper](https://ieeexplore.ieee.org/abstract/document/6809169)] 
+* Walter J. Scheirer, Lalit P. Jain and Terrance E. Boult. 2014. **Probability Models for Open Set Recognition**. *IEEE Transactions on Pattern Analysis and Machine Intelligence*.[[paper](https://ieeexplore.ieee.org/abstract/document/6809169)] 
 * Lalit P. Jain, Walter J. Scheirer and Terrance E. Boult. **Multi-class open set recognition using probability of inclusion**. 2014. In *Proceedings of ECCV 2014*. [[paper](https://link.springer.com/chapter/10.1007/978-3-319-10578-9_26)]
-* Walter J. Scheirer, Anderson de Rezende, Archana Sapkota and Terrance E. Boult . **Toward Open Set Recognition**. 2013. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. [[paper](https://ieeexplore.ieee.org/abstract/document/6365193)] 
+* Walter J. Scheirer, Anderson de Rezende, Archana Sapkota and Terrance E. Boult . 2013. **Toward Open Set Recognition**. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. [[paper](https://ieeexplore.ieee.org/abstract/document/6365193)] 
 
 <h3 id="New_Category_Discovery">New Category Discovery</h3> 
 
