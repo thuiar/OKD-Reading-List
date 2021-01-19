@@ -1,12 +1,13 @@
 # Open Knowledge Discovery Reading List
-This is an open knowledge discovery reading list maintained by [THUIAR](https://github.com/thuiar) group. As real-world scenarios are usually open settings, it is crucial to discovery these open
+
+This is an open knowledge discovery reading list maintained by [Hanlei Zhang](https://github.com/HanleiZhang) and [Ting-En Lin](https://github.com/tnlin). As real-world scenarios are usually open settings, it is crucial to discovery these open
 knowledge (e.g., user intents in dialogue system, new image category and so on) to improve the quality of machine learning systems. 
 
 Our list is still incomplete and the taxonomy may be inappropriate. We will keep adding related high-quality papers to improve the list. Any suggestions are welcome! (Contact: zhang-hl20@mails.tsinghua.edu.cn)
 
 ## Contents
 * [Natural Language Processing](#Natural_Language_Processing)
-    * [Unknown Intent Detection](#Intent_Detection)
+    * [Open Intent Detection](#Open_Intent_Detection)
     * [Out-of-domain Detection](#Out-of-domain_Detection)
     * [Intent Discovery](#Intent_Discovery)
  * [Computer Vision](#Computer_Vision)
@@ -20,9 +21,9 @@ Our list is still incomplete and the taxonomy may be inappropriate. We will keep
     
 <h2 id="Natural_Language_Processing">Natural Language Processing</h2> 
 
-<h3 id="Unknown_Intent_Detection">Unknown Intent Detection</h3> 
+<h3 id="Open_Intent_Detection">Unknown Intent Detection</h3> 
 
-* Hanlei Zhang, Hua Xu and Ting-En Lin. 2021. **Deep Open Intent Classification with Adaptive Decision Boundary**. To appear at *Proceedings of AAAI 2021*. [[paper](hhttps://arxiv.org/pdf/2012.10209.pdf)] [[code](https://github.com/thuiar/Adaptive-Decision-Boundary)]
+* Hanlei Zhang, Hua Xu and Ting-En Lin. 2021. **Deep Open Intent Classification with Adaptive Decision Boundary**. To appear at *Proceedings of AAAI 2021*. [[paper](https://arxiv.org/pdf/2012.10209.pdf)] [[code](https://github.com/thuiar/Adaptive-Decision-Boundary)]
 * Guangfeng Yan, Lu Fan, Qimai Li, Han Liu, Xiaotong Zhang, Xiao-Ming Wu and Albert Y.S. Lam. 2020. **Unknown Intent Detection Using Gaussian Mixture Model with an Application to Zero-shot Intent Classification**. In *Proceedings of ACL 2020*. [[paper](https://www.aclweb.org/anthology/2020.acl-main.99.pdf)]
 * Ting-En Lin and Hua Xu. 2019. **Deep Unknown Intent Detection with Margin Loss**. In *Proceedings of ACL 2019*. [[paper](https://www.aclweb.org/anthology/P19-1548.pdf)] [[code](https://github.com/thuiar/DeepUnkID)]
 * Congying Xia, Chenwei Zhang, Xiaohui Yan, Yi Chang and Philip S. Yu. 2018. **Zero-shot User Intent Detection via Capsule Neural Networks**. In *Proceedings of EMNLP 2018*. [[paper](https://www.aclweb.org/anthology/D18-1348.pdf)] [[code](https://github.com/congyingxia/ZeroShotCapsule)]
