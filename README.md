@@ -5,6 +5,8 @@ knowledge (e.g., new user intents in dialogue system, image open set and so on) 
 
 Our list is still incomplete and the taxonomy may be inappropriate. We will keep adding papers to improve the list. Any suggestions are welcome! (Contact: zhang-hl20@mails.tsinghua.edu.cn)
 
+Contributors: Hanlei Zhang, Ting-En Lin, Kang Zhao, Rui Lyu.
+
 ## Contents
 * [Natural Language Processing](#Natural_Language_Processing)
     * [Open Intent Detection](#Open_Intent_Detection)
