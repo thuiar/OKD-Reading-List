@@ -43,7 +43,7 @@ Contributors: Hanlei Zhang, Kang Zhao, Ting-En Lin, Rui Lyu.
 <h3 id="Open_World_Classification">Open World Classification</h3> 
 
 * Hu Xu, Bing Liu, Lei Shu and P. Yu. **Open-world Learning and Application to Product Classification**. 2019.  In *Proceedings of WWW 2019*. [[paper](https://arxiv.org/abs/1809.06004)] [[code](https://github.com/howardhsu/Meta-Open-World-Learning)]
-* Lei Shu, Hu Xu and Bing Liu. **DOC: Deep Open Classification of Text Documents**. 2017.  In *Proceedings of EMNLP 2017*. [[paper](https://www.aclweb.org/anthology/D17-1314.pdf)] [[code](https://github.com/leishu02/EMNLP2017_DOC)]
+* Lei Shu, Hu Xu and Bing Liu. 2017. **DOC: Deep Open Classification of Text Documents**. In *Proceedings of EMNLP 2017*. [[paper](https://www.aclweb.org/anthology/D17-1314.pdf)] [[code](https://github.com/leishu02/EMNLP2017_DOC)]
 * Geli Fei and Bing Liu. **Breaking the Closed World Assumption in Text Classification**. 2016.  In *Proceedings of HLT-NAACL 2016*. [[paper](https://www.aclweb.org/anthology/N16-1061.pdf)] 
 
 <h3 id="Intent_Discovery">Intent Discovery</h3> 
