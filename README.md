@@ -5,7 +5,7 @@ knowledge (e.g., new user intents in dialogue system, image open set and so on) 
 
 Contributors: Hanlei Zhang, Kang Zhao, Ting-En Lin, Rui Lyu.
 
-Our list is still incomplete and the taxonomy may be inappropriate. We will keep adding papers to improve the list. Welcome to **Pull Request**, and any suggestions are welcome! (Contact: zhang-hl20@mails.tsinghua.edu.cn)
+Our list is still incomplete and the taxonomy may be inappropriate. We will keep adding papers to improve the list, and welcome to **Pull Request** ! If you have any suggestions, please contact zhang-hl20@mails.tsinghua.edu.cn.
 
 
 
