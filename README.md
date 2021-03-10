@@ -1,7 +1,7 @@
 # Open Knowledge Discovery Reading List
 
 This is an open knowledge discovery reading list maintained by THUIAR team. As real-world scenarios are usually open settings, it is crucial to discovery these open
-knowledge (e.g., new user intents in dialogue system, image open set and so on) to improve the quality of machine learning systems . 
+knowledge (e.g., new user intents in dialogue system, image open set and so on) to improve the quality of machine learning systems. 
 
 Our list is still incomplete and the taxonomy may be inappropriate. We will keep adding papers to improve the list. Any suggestions are welcome! (Contact: zhang-hl20@mails.tsinghua.edu.cn)
 
@@ -60,6 +60,8 @@ Our list is still incomplete and the taxonomy may be inappropriate. We will keep
 
 <h3 id="Out_of_Domain_Detection">Out-of-domain Detection</h3> 
 
+* Vikash Sehwag, Mung Chiang, Prateek Mittal. 2021.
+**SSD: A Unified Framework for Self-Supervised Outlier Detection**. In *Proceedings of ICLR 2021*. [[paper](https://openreview.net/pdf?id=v5gjXpmR8J)] [[code](https://github.com/inspire-group/SSD)]
 * Yen-Chang Hsu, Yilin Shen, Hongxia Jin, Zsolt Kira. 2020. **Generalized ODIN: Detecting Out-of-distribution Image without Learning from Out-of-distribution Data**.  In *Proceedings of CVPR 2020*. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hsu_Generalized_ODIN_Detecting_Out-of-Distribution_Image_Without_Learning_From_Out-of-Distribution_Data_CVPR_2020_paper.pdf)] 
 * Julian Bitterwolf, Alexander Meinke, Matthias Hein. 2020. **Certifiably Adversarially Robust Detection of Out-of-Distribution Data**. In *Proceedings of NeurIPS 2020*. In *Proceedings of NeurIPS 2020*. [[paper](https://proceedings.neurips.cc/paper/2020/file/b90c46963248e6d7aab1e0f429743ca0-Paper.pdf)] [[code](https://github.com/j-cb/GOOD)]
 * Taewon Jeong, Heeyoung Kim. 2020. **OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification**. In *Proceedings of NeurIPS 2020*. [[paper](https://proceedings.neurips.cc/paper/2020/file/28e209b61a52482a0ae1cb9f5959c792-Paper.pdf)]
