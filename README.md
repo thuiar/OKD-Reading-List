@@ -28,9 +28,10 @@ Contributors: Hanlei Zhang, Kang Zhao, Ting-En Lin, Rui Lyu.
 
 * Hanlei Zhang, Hua Xu and Ting-En Lin. 2021. **Deep Open Intent Classification with Adaptive Decision Boundary**. To appear at *Proceedings of AAAI 2021*. [[paper](https://arxiv.org/pdf/2012.10209.pdf)] [[code](https://github.com/thuiar/Adaptive-Decision-Boundary)]
 * Guangfeng Yan, Lu Fan, Qimai Li, Han Liu, Xiaotong Zhang, Xiao-Ming Wu and Albert Y.S. Lam. 2020. **Unknown Intent Detection Using Gaussian Mixture Model with an Application to Zero-shot Intent Classification**. In *Proceedings of ACL 2020*. [[paper](https://www.aclweb.org/anthology/2020.acl-main.99.pdf)]
+* Iñigo Casanueva, Tadas Temčinas, Daniela Gerz, Matthew Henderson, Ivan Vulić. 2020. **Efficient Intent Detection with Dual Sentence Encoders**. In *Proceedings of ACL 2020*. [[paper](https://www.aclweb.org/anthology/2020.nlp4convai-1.5.pdf)] [[dataset](https://github.com/PolyAI-LDN/task-specific-datasets)]
 * Ting-En Lin and Hua Xu. 2019. **Deep Unknown Intent Detection with Margin Loss**. In *Proceedings of ACL 2019*. [[paper](https://www.aclweb.org/anthology/P19-1548.pdf)] [[code](https://github.com/thuiar/DeepUnkID)]
 * Congying Xia, Chenwei Zhang, Xiaohui Yan, Yi Chang and Philip S. Yu. 2018. **Zero-shot User Intent Detection via Capsule Neural Networks**. In *Proceedings of EMNLP 2018*. [[paper](https://www.aclweb.org/anthology/D18-1348.pdf)] [[code](https://github.com/congyingxia/ZeroShotCapsule)]
-* Iñigo Casanueva, Tadas Temčinas, Daniela Gerz, Matthew Henderson, Ivan Vulić. 2020. **Efficient Intent Detection with Dual Sentence Encoders**. In *Proceedings of ACL 2020*. [[paper](https://www.aclweb.org/anthology/2020.nlp4convai-1.5.pdf)] [[dataset](https://github.com/PolyAI-LDN/task-specific-datasets)]
+
 
 <h3 id="Out-of-domain_Detection">Out-of-domain Detection</h3> 
 
