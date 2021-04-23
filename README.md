@@ -82,6 +82,7 @@ Contributors: Hanlei Zhang, Kang Zhao, Ting-En Lin, Rui Lyu.
 
 <h3 id="Open_Set_Recognition">Open Set Recognition / Open World Classification</h3> 
 
+* Da-Wei Zhou, Han-Jia Ye, De-Chuan Zhan. 2021. **Learning Placeholders for Open-Set Recognition**. In *Proceedings of CVPR 2021.* [[paper](https://arxiv.org/pdf/2103.15086.pdf)]
 * Hong-Ming Yang, Xu-Yao Zhang, Fei Yin, Qing Yang and Cheng-Lin Liu. 2020. **Convolutional Prototype Network for Open Set Recognition**. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. [[paper](https://ieeexplore.ieee.org/abstract/document/9296325)] 
 * Chuanxing Geng and Songcan Chen. 2020. **Collective decision for open set recognition**. *IEEE Transactions on Knowledge and Data Engineering*. [[paper](https://ieeexplore.ieee.org/abstract/document/9296325)] 
 * Pramuditha Perera, Vlad I. Morariu, Rajiv Jain, Varun Manjunatha, Curtis Wigington, Vicente Ordonez and Vishal M. Patel. 2020. **Generative-discriminative Feature Representations for Open-set Recognition**. In *Proceedings of CVPR 2020*. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Perera_Generative-Discriminative_Feature_Representations_for_Open-Set_Recognition_CVPR_2020_paper.pdf)] 
