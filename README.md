@@ -13,6 +13,7 @@ Contributors: Hanlei Zhang, Ting-En Lin, Kang Zhao, Rui Lyu.
     * [Intent Detection](#Intent_Detection)
     * [Out-of-domain Detection](#Out-of-domain_Detection)
     * [Intent Discovery](#Intent_Discovery)
+    * [Toolkit](#Toolkit)
  * [Computer Vision](#Computer_Vision)
     * [Out of Domain Detection](#Out_of_Domain_Detection)
     * [Open Set Recognition / Open World Classification](#Open_Set_Recognition)
@@ -60,6 +61,10 @@ Contributors: Hanlei Zhang, Ting-En Lin, Kang Zhao, Rui Lyu.
 * Dilek Hakkani-Tür, Yun-Cheng Ju, Geoff Zweig and Gokhan Tur. 2015. **Clustering Novel Intents in a Conversational Interaction System with Semantic Parsing**. In *Proceedings of INTERSPEECH 2015*. [[paper](https://www.isca-speech.org/archive/interspeech_2015/papers/i15_1854.pdf)]
 * George Forman, Hila Nachlieli, and Renato Keshet. 2015. **Clustering by intent: A semi-supervised method to discover relevant clusters incrementally**.  In *Proceedings of ECML-PKDD 2015*. [[paper](https://link.springer.com/chapter/10.1007/978-3-319-23461-8_2)]
 * Dilek Hakkani-Tür, Asli Celikyilmaz, Larry Heck and Gokhan Tur. 2013.  **A Weakly-Supervised Approach for Discovering New User Intents from Search Query Logs**. In *Proceedings of INTERSPEECH 2013*. [[paper](https://www.isca-speech.org/archive/archive_papers/interspeech_2013/i13_3780.pdf)]
+
+<h3 id="Toolkit">Toolkit</h3> 
+
+* Hanlei Zhang, Xiaoteng Li, Hua Xu, Panpan Zhang, Kang Zhao, Kai Gao. 2021. **TEXTOIR: An Integrated and Visualized Platform for Text Open Intent Recognition**. In *Proceedings of ACL 2021*. [[paper](https://aclanthology.org/2021.acl-demo.20.pdf)] [[toolkit]](https://github.com/thuiar/TEXTOIR) [[demo]](https://github.com/thuiar/TEXTOIR-DEMO)
 
 <h2 id="Computer_Vision">Computer Vision</h2> 
 
