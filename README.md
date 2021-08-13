@@ -64,7 +64,7 @@ Contributors: Hanlei Zhang, Ting-En Lin, Kang Zhao, Rui Lyu.
 
 <h3 id="Toolkit">Toolkit</h3> 
 
-* Hanlei Zhang, Xiaoteng Li, Hua Xu, Panpan Zhang, Kang Zhao, Kai Gao. 2021. **TEXTOIR: An Integrated and Visualized Platform for Text Open Intent Recognition**. In *Proceedings of ACL 2021*. [[paper](https://aclanthology.org/2021.acl-demo.20.pdf)] [[toolkit]](https://github.com/thuiar/TEXTOIR) [[demo]](https://github.com/thuiar/TEXTOIR-DEMO)
+* Hanlei Zhang, Xiaoteng Li, Hua Xu, Panpan Zhang, Kang Zhao, Kai Gao. 2021. **TEXTOIR: An Integrated and Visualized Platform for Text Open Intent Recognition**. In *Proceedings of ACL 2021*. [[paper](https://aclanthology.org/2021.acl-demo.20.pdf)] [[toolkit](https://github.com/thuiar/TEXTOIR)] [[demo](https://github.com/thuiar/TEXTOIR-DEMO)]
 
 <h2 id="Computer_Vision">Computer Vision</h2> 
 
