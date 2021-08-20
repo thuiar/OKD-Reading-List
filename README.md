@@ -32,6 +32,7 @@ Contributors: Hanlei Zhang, Ting-En Lin, Kang Zhao, Rui Lyu.
 * Iñigo Casanueva, Tadas Temčinas, Daniela Gerz, Matthew Henderson, Ivan Vulić. 2020. **Efficient Intent Detection with Dual Sentence Encoders**. In *Proceedings of ACL 2020*. [[paper](https://www.aclweb.org/anthology/2020.nlp4convai-1.5.pdf)] [[dataset](https://github.com/PolyAI-LDN/task-specific-datasets)]
 * Ting-En Lin and Hua Xu. 2019. **Deep Unknown Intent Detection with Margin Loss**. In *Proceedings of ACL 2019*. [[paper](https://www.aclweb.org/anthology/P19-1548.pdf)] [[code](https://github.com/thuiar/DeepUnkID)]
 * Congying Xia, Chenwei Zhang, Xiaohui Yan, Yi Chang and Philip S. Yu. 2018. **Zero-shot User Intent Detection via Capsule Neural Networks**. In *Proceedings of EMNLP 2018*. [[paper](https://www.aclweb.org/anthology/D18-1348.pdf)] [[code](https://github.com/congyingxia/ZeroShotCapsule)]
+* Liming Zhan, Haowen Liang, Bo Liu, Lu Fan, Xiaoming Wu, Albert Y.S. Lam. 2021. **Out-of-Scope Intent Detection with Self-Supervision and Discriminative Training**. In *Proceedings of ACL 2021*. [[paper](https://arxiv.org/pdf/2106.08616.pdf)] [[code](https://github.com/liam0949/DCLOOS)]
 
 
 <h3 id="Out-of-domain_Detection">Out-of-domain Detection</h3> 
