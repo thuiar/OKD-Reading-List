@@ -36,6 +36,7 @@ Contributors: Hanlei Zhang, Ting-En Lin, Kang Zhao, Rui Lyu.
 * Yilin Shen, Yen-Chang Hsu, Avik Ray, Hongxia Jin. 2021. **Enhancing the generalization for Intent Classification and Out-of-Domain Detection in SLU**. In *Proceedings of ACL 2021*. [[paper](https://arxiv.org/pdf/2106.14464.pdf)]
 * DongHyun Choi, Myeong Cheol Shin, EungGyun Kim, Dong Ryeol Shin. 2021. **OutFlip: Generating Out-of-Domain Samples for Unknown Intent Detection with Natural Language Attack**. In *ACL Findings of ACL-IJCNLP 2021* .[[paper](https://arxiv.org/pdf/2105.05601.pdf)]
 * Yawen Ouyang, Jiasheng Ye, Yu Chen, Xinyu Dai, Shujian Huang, Jiajun Chen. 2021. **Energy-based Unknown Intent Detection with Data Manipulation**. In *ACL Findings of ACL-IJCNLP 2021* .[[paper](https://arxiv.org/pdf/2107.12542.pdf)]
+* Zhiyuan Zeng, Keqing He, Yuanmeng Yan, Zijun Liu, Yanan Wu, Hong Xu, Huixing Jiang, Weiran Xu. 2021. **Modeling Discriminative Representations for Out-of-Domain Detection with Supervised Contrastive Learning**. In *ACL Findings of ACL-IJCNLP 2021*. [[paper](https://arxiv.org/pdf/2105.14289.pdf)][[code](https://github.com/parZival27/supervised-contrastive-learning-for-out-of-domain-detection)]
 
 
 <h3 id="Out-of-domain_Detection">Out-of-domain Detection</h3> 
