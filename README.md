@@ -27,8 +27,8 @@ Contributors: Hanlei Zhang, Shaojie Zhao, Kang Zhao, Ting-En Lin, Rui Lyu.
 
 <h3 id="Open_Intent_Detection">Intent Detection</h3> 
 
-* Liming Zhan, Haowen Liang, Bo Liu, Lu Fan, Xiaoming Wu, Albert Y.S. Lam. 2021. **Out-of-Scope Intent Detection with Self-Supervision and Discriminative Training**. In *Proceedings of ACL 2021*. [[paper](https://arxiv.org/pdf/2106.08616.pdf)] [[code](https://github.com/liam0949/DCLOOS)]
-* Yilin Shen, Yen-Chang Hsu, Avik Ray, Hongxia Jin. 2021. **Enhancing the generalization for Intent Classification and Out-of-Domain Detection in SLU**. In *Proceedings of ACL 2021*. [[paper](https://arxiv.org/pdf/2106.14464.pdf)]
+* Liming Zhan, Haowen Liang, Bo Liu, Lu Fan, Xiaoming Wu, Albert Y.S. Lam. 2021. **Out-of-Scope Intent Detection with Self-Supervision and Discriminative Training**. In *Proceedings of ACL-IJCNLP 2021*. [[paper](https://arxiv.org/pdf/2106.08616.pdf)] [[code](https://github.com/liam0949/DCLOOS)]
+* Yilin Shen, Yen-Chang Hsu, Avik Ray, Hongxia Jin. 2021. **Enhancing the generalization for Intent Classification and Out-of-Domain Detection in SLU**. In *Proceedings of ACL-IJCNLP 2021*. [[paper](https://arxiv.org/pdf/2106.14464.pdf)]
 * DongHyun Choi, Myeong Cheol Shin, EungGyun Kim, Dong Ryeol Shin. 2021. **OutFlip: Generating Out-of-Domain Samples for Unknown Intent Detection with Natural Language Attack**. In *Proceedings of ACL-IJCNLP 2021 Findings* .[[paper](https://arxiv.org/pdf/2105.05601.pdf)]
 * Yawen Ouyang, Jiasheng Ye, Yu Chen, Xinyu Dai, Shujian Huang, Jiajun Chen. 2021. **Energy-based Unknown Intent Detection with Data Manipulation**. In *Proceedings of ACL-IJCNLP 2021 Findings* .[[paper](https://arxiv.org/pdf/2107.12542.pdf)]
 * Zhiyuan Zeng, Keqing He, Yuanmeng Yan, Zijun Liu, Yanan Wu, Hong Xu, Huixing Jiang, Weiran Xu. 2021. **Modeling Discriminative Representations for Out-of-Domain Detection with Supervised Contrastive Learning**. In *Proceedings of ACL-IJCNLP 2021*. [[paper](https://arxiv.org/pdf/2105.14289.pdf)][[code](https://github.com/parZival27/supervised-contrastive-learning-for-out-of-domain-detection)]
