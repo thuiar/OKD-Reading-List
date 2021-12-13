@@ -41,6 +41,7 @@ Contributors: Hanlei Zhang, Shaojie Zhao, Kang Zhao, Ting-En Lin, Rui Lyu.
 
 <h3 id="Out-of-domain_Detection">Out-of-domain Detection</h3> 
 
+* Xiaoya Li, Jiwei Li, Xiaofei Sun, Chun Fan, Tianwei Zhang, Fei Wu, Yuxian Meng, Jun Zhang. 2021. **$k$Folden: &k&-Fold Ensemble for Out-of-Distribution Detection**. In*Proceedings of EMNLP 2021*. [[paper](https://aclanthology.org/2021.emnlp-main.248/)][[code](https://github.com/ShannonAI/kfolden-ood-detection)]
 * Yinhe Zheng, Guanyi Chen, and Minlie Huang. 2020. **Out-of-domain Detection for Natural Language Understanding in Dialog Systems**. *IEEE Transactions on Audio, Speech and Language Processing*. [[paper](https://ieeexplore.ieee.org/document/9052492)]
 * Gangal Varun, Arora Abhinav, Einolghozati Arash and Gupta Sonal. 2020. **Likelihood Ratios and Generative Classifiers for Unsupervised Out-of-Domain Detection in Task Oriented Dialog**. In *Proceedings of AAAI 2020*. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6280)]
 * Larson Stefan, Mahendran Anish, Peper Joseph J, Clarke Christopher， Lee Andrew， Hill Parker， Kummerfeld Jonathan K， Leach Kevin， Laurenzano Michael A.， Tang Lingjia  and Mars Jason. 2019. **An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction**. In *Proceedings of EMNLP-IJCNLP 2019*. [[paper](https://www.aclweb.org/anthology/D19-1131.pdf)] [[dataset](https://github.com/clinc/oos-eval)]
