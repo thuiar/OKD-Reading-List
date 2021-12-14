@@ -10,10 +10,10 @@ Contributors: Hanlei Zhang, Shaojie Zhao, Kang Zhao, Ting-En Lin, Rui Lyu.
 
 ## Contents
 * [Natural Language Processing](#Natural_Language_Processing)
+    * [Toolkit](#Toolkit)
     * [Intent Detection](#Intent_Detection)
     * [Out-of-domain Detection](#Out-of-domain_Detection)
     * [Intent Discovery](#Intent_Discovery)
-    * [Toolkit](#Toolkit)
  * [Computer Vision](#Computer_Vision)
     * [Out of Domain Detection](#Out_of_Domain_Detection)
     * [Open Set Recognition / Open World Classification](#Open_Set_Recognition)
