@@ -25,6 +25,10 @@ Contributors: Hanlei Zhang, Shaojie Zhao, Kang Zhao, Ting-En Lin, Rui Lyu.
     
 <h2 id="Natural_Language_Processing">Natural Language Processing</h2> 
 
+<h3 id="Toolkit">Toolkit</h3> 
+
+* Hanlei Zhang, Xiaoteng Li, Hua Xu, Panpan Zhang, Kang Zhao, Kai Gao. 2021. **TEXTOIR: An Integrated and Visualized Platform for Text Open Intent Recognition**. In *Proceedings of ACL 2021*. [[paper](https://aclanthology.org/2021.acl-demo.20.pdf)] [[toolkit](https://github.com/thuiar/TEXTOIR)] [[demo](https://github.com/thuiar/TEXTOIR-DEMO)]
+
 <h3 id="Open_Intent_Detection">Intent Detection</h3> 
 
 * Liming Zhan, Haowen Liang, Bo Liu, Lu Fan, Xiaoming Wu, Albert Y.S. Lam. 2021. **Out-of-Scope Intent Detection with Self-Supervision and Discriminative Training**. In *Proceedings of ACL-IJCNLP 2021*. [[paper](https://arxiv.org/pdf/2106.08616.pdf)] [[code](https://github.com/liam0949/DCLOOS)]
@@ -41,16 +45,17 @@ Contributors: Hanlei Zhang, Shaojie Zhao, Kang Zhao, Ting-En Lin, Rui Lyu.
 
 <h3 id="Out-of-domain_Detection">Out-of-domain Detection</h3> 
 
-* Xiaoya Li, Jiwei Li, Xiaofei Sun, Chun Fan, Tianwei Zhang, Fei Wu, Yuxian Meng, Jun Zhang. 2021. **$k$Folden: &k&-Fold Ensemble for Out-of-Distribution Detection**. In*Proceedings of EMNLP 2021*. [[paper](https://aclanthology.org/2021.emnlp-main.248/)][[code](https://github.com/ShannonAI/kfolden-ood-detection)]
+* Xiaoya Li, Jiwei Li, Xiaofei Sun, Chun Fan, Tianwei Zhang, Fei Wu, Yuxian Meng, Jun Zhang. 2021. **kFolden: k-Fold Ensemble for Out-of-Distribution Detection**. In *Proceedings of EMNLP 2021*. [[paper](https://aclanthology.org/2021.emnlp-main.248/)][[code](https://github.com/ShannonAI/kfolden-ood-detection)]
 * Yinhe Zheng, Guanyi Chen, and Minlie Huang. 2020. **Out-of-domain Detection for Natural Language Understanding in Dialog Systems**. *IEEE Transactions on Audio, Speech and Language Processing*. [[paper](https://ieeexplore.ieee.org/document/9052492)]
 * Gangal Varun, Arora Abhinav, Einolghozati Arash and Gupta Sonal. 2020. **Likelihood Ratios and Generative Classifiers for Unsupervised Out-of-Domain Detection in Task Oriented Dialog**. In *Proceedings of AAAI 2020*. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6280)]
-* Larson Stefan, Mahendran Anish, Peper Joseph J, Clarke Christopher， Lee Andrew， Hill Parker， Kummerfeld Jonathan K， Leach Kevin， Laurenzano Michael A.， Tang Lingjia  and Mars Jason. 2019. **An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction**. In *Proceedings of EMNLP-IJCNLP 2019*. [[paper](https://www.aclweb.org/anthology/D19-1131.pdf)] [[dataset](https://github.com/clinc/oos-eval)]
+* Larson Stefan, Mahendran Anish, Peper Joseph J, Clarke Christopher, Lee Andrew, Hill Parker, Kummerfeld Jonathan K, Leach Kevin, Laurenzano Michael A., Tang Lingjia and Mars Jason. 2019. **An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction**. In *Proceedings of EMNLP-IJCNLP 2019*. [[paper](https://www.aclweb.org/anthology/D19-1131.pdf)] [[dataset](https://github.com/clinc/oos-eval)]
 * Joo-Kyung Kim and Young-Bum Kim. 2018. **Joint Learning of Domain Classification and Out-of-Domain Detection with Dynamic Class Weighting for Satisficing False Acceptance Rates**.  In *Proceedings of INTERSPEECH 2018*. [[paper](https://arxiv.org/pdf/1807.00072.pdf)]
 * Seonghan Ryu, Sangjun Koo, Hwanjo Yu, and Gary Geunbae Lee. 2018. **Out-of-domain Detection based on Generative Adversarial Network**.  In *Proceedings of EMNLP 2018*. [[paper](https://www.aclweb.org/anthology/D18-1077.pdf)] 
 * Ian Lane, Tatsuya Kawahara, Tomoko Matsui and Satoshi Nakamura. 2006. **Out-of-Domain Utterance Detection Using Classification Confidences of Multiple Topics**. *IEEE Transactions on Audio, Speech, and Language Processing*. [[paper](https://ieeexplore.ieee.org/document/4032779)]
 
 <h3 id="Open_World_Classification">Open World Classification</h3> 
 
+* Lei Shu, Yassine Benajiba, Saab Mansour, Yi Zhang. **ODIST: Open World Classification via Distributionally Shifted Instances**. 2021. In *Proceedings of EMNLP 2021 Findings*. [[paper](https://aclanthology.org/2021.findings-emnlp.316.pdf)]
 * Hu Xu, Bing Liu, Lei Shu and P. Yu. **Open-world Learning and Application to Product Classification**. 2019.  In *Proceedings of WWW 2019*. [[paper](https://arxiv.org/abs/1809.06004)] [[code](https://github.com/howardhsu/Meta-Open-World-Learning)]
 * Lei Shu, Hu Xu and Bing Liu. 2017. **DOC: Deep Open Classification of Text Documents**. In *Proceedings of EMNLP 2017*. [[paper](https://www.aclweb.org/anthology/D17-1314.pdf)] [[code](https://github.com/leishu02/EMNLP2017_DOC)]
 * Geli Fei and Bing Liu. **Breaking the Closed World Assumption in Text Classification**. 2016.  In *Proceedings of HLT-NAACL 2016*. [[paper](https://www.aclweb.org/anthology/N16-1061.pdf)] 
@@ -67,10 +72,6 @@ Contributors: Hanlei Zhang, Shaojie Zhao, Kang Zhao, Ting-En Lin, Rui Lyu.
 * Dilek Hakkani-Tür, Yun-Cheng Ju, Geoff Zweig and Gokhan Tur. 2015. **Clustering Novel Intents in a Conversational Interaction System with Semantic Parsing**. In *Proceedings of INTERSPEECH 2015*. [[paper](https://www.isca-speech.org/archive/interspeech_2015/papers/i15_1854.pdf)]
 * George Forman, Hila Nachlieli, and Renato Keshet. 2015. **Clustering by intent: A semi-supervised method to discover relevant clusters incrementally**.  In *Proceedings of ECML-PKDD 2015*. [[paper](https://link.springer.com/chapter/10.1007/978-3-319-23461-8_2)]
 * Dilek Hakkani-Tür, Asli Celikyilmaz, Larry Heck and Gokhan Tur. 2013.  **A Weakly-Supervised Approach for Discovering New User Intents from Search Query Logs**. In *Proceedings of INTERSPEECH 2013*. [[paper](https://www.isca-speech.org/archive/archive_papers/interspeech_2013/i13_3780.pdf)]
-
-<h3 id="Toolkit">Toolkit</h3> 
-
-* Hanlei Zhang, Xiaoteng Li, Hua Xu, Panpan Zhang, Kang Zhao, Kai Gao. 2021. **TEXTOIR: An Integrated and Visualized Platform for Text Open Intent Recognition**. In *Proceedings of ACL 2021*. [[paper](https://aclanthology.org/2021.acl-demo.20.pdf)] [[toolkit](https://github.com/thuiar/TEXTOIR)] [[demo](https://github.com/thuiar/TEXTOIR-DEMO)]
 
 <h2 id="Computer_Vision">Computer Vision</h2> 
 
