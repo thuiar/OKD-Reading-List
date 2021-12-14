@@ -11,7 +11,7 @@ Contributors: Hanlei Zhang, Shaojie Zhao, Kang Zhao, Ting-En Lin, Rui Lyu.
 ## Contents
 * [Natural Language Processing](#Natural_Language_Processing)
     * [Toolkit](#Toolkit)
-    * [Intent Detection](#Intent_Detection)
+    * [Open Intent Detection](#Open_Intent_Detection)
     * [Out-of-domain Detection](#Out-of-domain_Detection)
     * [Intent Discovery](#Intent_Discovery)
  * [Computer Vision](#Computer_Vision)
@@ -29,10 +29,9 @@ Contributors: Hanlei Zhang, Shaojie Zhao, Kang Zhao, Ting-En Lin, Rui Lyu.
 
 * Hanlei Zhang, Xiaoteng Li, Hua Xu, Panpan Zhang, Kang Zhao, Kai Gao. 2021. **TEXTOIR: An Integrated and Visualized Platform for Text Open Intent Recognition**. In *Proceedings of ACL 2021*. [[paper](https://aclanthology.org/2021.acl-demo.20.pdf)] [[toolkit](https://github.com/thuiar/TEXTOIR)] [[demo](https://github.com/thuiar/TEXTOIR-DEMO)]
 
-<h3 id="Open_Intent_Detection">Intent Detection</h3> 
+<h3 id="Open_Intent_Detection">Open Intent Detection</h3> 
 
 * Liming Zhan, Haowen Liang, Bo Liu, Lu Fan, Xiaoming Wu, Albert Y.S. Lam. 2021. **Out-of-Scope Intent Detection with Self-Supervision and Discriminative Training**. In *Proceedings of ACL-IJCNLP 2021*. [[paper](https://arxiv.org/pdf/2106.08616.pdf)] [[code](https://github.com/liam0949/DCLOOS)]
-* Yilin Shen, Yen-Chang Hsu, Avik Ray, Hongxia Jin. 2021. **Enhancing the generalization for Intent Classification and Out-of-Domain Detection in SLU**. In *Proceedings of ACL-IJCNLP 2021*. [[paper](https://arxiv.org/pdf/2106.14464.pdf)]
 * DongHyun Choi, Myeong Cheol Shin, EungGyun Kim, Dong Ryeol Shin. 2021. **OutFlip: Generating Out-of-Domain Samples for Unknown Intent Detection with Natural Language Attack**. In *Proceedings of ACL-IJCNLP 2021 Findings* .[[paper](https://arxiv.org/pdf/2105.05601.pdf)]
 * Yawen Ouyang, Jiasheng Ye, Yu Chen, Xinyu Dai, Shujian Huang, Jiajun Chen. 2021. **Energy-based Unknown Intent Detection with Data Manipulation**. In *Proceedings of ACL-IJCNLP 2021 Findings* .[[paper](https://arxiv.org/pdf/2107.12542.pdf)]
 * Zhiyuan Zeng, Keqing He, Yuanmeng Yan, Zijun Liu, Yanan Wu, Hong Xu, Huixing Jiang, Weiran Xu. 2021. **Modeling Discriminative Representations for Out-of-Domain Detection with Supervised Contrastive Learning**. In *Proceedings of ACL-IJCNLP 2021*. [[paper](https://arxiv.org/pdf/2105.14289.pdf)][[code](https://github.com/parZival27/supervised-contrastive-learning-for-out-of-domain-detection)]
@@ -46,6 +45,7 @@ Contributors: Hanlei Zhang, Shaojie Zhao, Kang Zhao, Ting-En Lin, Rui Lyu.
 <h3 id="Out-of-domain_Detection">Out-of-domain Detection</h3> 
 
 * Xiaoya Li, Jiwei Li, Xiaofei Sun, Chun Fan, Tianwei Zhang, Fei Wu, Yuxian Meng, Jun Zhang. 2021. **kFolden: k-Fold Ensemble for Out-of-Distribution Detection**. In *Proceedings of EMNLP 2021*. [[paper](https://aclanthology.org/2021.emnlp-main.248/)][[code](https://github.com/ShannonAI/kfolden-ood-detection)]
+* Yilin Shen, Yen-Chang Hsu, Avik Ray, Hongxia Jin. 2021. **Enhancing the generalization for Intent Classification and Out-of-Domain Detection in SLU**. In *Proceedings of ACL-IJCNLP 2021*. [[paper](https://arxiv.org/pdf/2106.14464.pdf)]
 * Yinhe Zheng, Guanyi Chen, and Minlie Huang. 2020. **Out-of-domain Detection for Natural Language Understanding in Dialog Systems**. *IEEE Transactions on Audio, Speech and Language Processing*. [[paper](https://ieeexplore.ieee.org/document/9052492)]
 * Gangal Varun, Arora Abhinav, Einolghozati Arash and Gupta Sonal. 2020. **Likelihood Ratios and Generative Classifiers for Unsupervised Out-of-Domain Detection in Task Oriented Dialog**. In *Proceedings of AAAI 2020*. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6280)]
 * Larson Stefan, Mahendran Anish, Peper Joseph J, Clarke Christopher, Lee Andrew, Hill Parker, Kummerfeld Jonathan K, Leach Kevin, Laurenzano Michael A., Tang Lingjia and Mars Jason. 2019. **An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction**. In *Proceedings of EMNLP-IJCNLP 2019*. [[paper](https://www.aclweb.org/anthology/D19-1131.pdf)] [[dataset](https://github.com/clinc/oos-eval)]
