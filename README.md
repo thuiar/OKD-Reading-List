@@ -13,7 +13,7 @@ Contributors: Hanlei Zhang, Shaojie Zhao, Kang Zhao, Ting-En Lin, Rui Lyu.
     * [Toolkit](#Toolkit)
     * [Open Intent Detection](#Open_Intent_Detection)
     * [Out-of-domain Detection](#Out-of-domain_Detection)
-    * [Intent Discovery](#Intent_Discovery)
+    * [Open Intent Discovery](#Open_Intent_Discovery)
  * [Computer Vision](#Computer_Vision)
     * [Out of Domain Detection](#Out_of_Domain_Detection)
     * [Open Set Recognition / Open World Classification](#Open_Set_Recognition)
@@ -60,7 +60,7 @@ Contributors: Hanlei Zhang, Shaojie Zhao, Kang Zhao, Ting-En Lin, Rui Lyu.
 * Lei Shu, Hu Xu and Bing Liu. 2017. **DOC: Deep Open Classification of Text Documents**. In *Proceedings of EMNLP 2017*. [[paper](https://www.aclweb.org/anthology/D17-1314.pdf)] [[code](https://github.com/leishu02/EMNLP2017_DOC)]
 * Geli Fei and Bing Liu. **Breaking the Closed World Assumption in Text Classification**. 2016.  In *Proceedings of HLT-NAACL 2016*. [[paper](https://www.aclweb.org/anthology/N16-1061.pdf)] 
 
-<h3 id="Intent_Discovery">Intent Discovery</h3> 
+<h3 id="Open_Intent_Discovery">Open Intent Discovery</h3> 
 
 * Hanlei Zhang, Hua Xu, Ting-En Lin and Rui Lyu. 2021. **Discovering New Intents with Deep Aligned Clustering**. In *Proceedings of AAAI 2021*. [[paper](https://arxiv.org/pdf/2012.08987.pdf)] [[code](https://github.com/thuiar/DeepAligned-Clustering)]
 * Nikhita Vedula, Nedim Lipka, Pranav Maneriker and Srinivasan Parthasarathy. **Open Intent Extraction from Natural Language Interactions**.  In *Proceedings of WWW 2020*. [[paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380268)]  
