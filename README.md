@@ -5,8 +5,6 @@ knowledge (e.g., new user intents in dialogue system, image open set and so on) 
 
 Our list is still incomplete and the taxonomy may be inappropriate. We will keep adding papers to improve the list, and welcome to **Pull Request** ! If you have any suggestions, please contact zhang-hl20@mails.tsinghua.edu.cn.
 
-Contributors: Hanlei Zhang, Shaojie Zhao, Kang Zhao, Ting-En Lin, Rui Lyu.
-
 
 ## Contents
 * [Natural Language Processing](#Natural_Language_Processing)
@@ -44,6 +42,7 @@ Contributors: Hanlei Zhang, Shaojie Zhao, Kang Zhao, Ting-En Lin, Rui Lyu.
 
 <h3 id="Out-of-domain_Detection">Out-of-domain Detection</h3> 
 
+* Wenxuan Zhou, Fangyu Liu, Muhao Chen. **Contrastive Out-of-Distribution Detection for Pretrained Transformers**.  In *Proceedings of EMNLP 2021*. [[paper](https://aclanthology.org/2021.emnlp-main.84)][[code](https://github.com/wzhouad/Contra-OOD)]
 * Xiaoya Li, Jiwei Li, Xiaofei Sun, Chun Fan, Tianwei Zhang, Fei Wu, Yuxian Meng, Jun Zhang. 2021. **kFolden: k-Fold Ensemble for Out-of-Distribution Detection**. In *Proceedings of EMNLP 2021*. [[paper](https://aclanthology.org/2021.emnlp-main.248/)][[code](https://github.com/ShannonAI/kfolden-ood-detection)]
 * Yilin Shen, Yen-Chang Hsu, Avik Ray, Hongxia Jin. 2021. **Enhancing the generalization for Intent Classification and Out-of-Domain Detection in SLU**. In *Proceedings of ACL-IJCNLP 2021*. [[paper](https://arxiv.org/pdf/2106.14464.pdf)]
 * Yinhe Zheng, Guanyi Chen, and Minlie Huang. 2020. **Out-of-domain Detection for Natural Language Understanding in Dialog Systems**. *IEEE Transactions on Audio, Speech and Language Processing*. [[paper](https://ieeexplore.ieee.org/document/9052492)]
@@ -142,6 +141,12 @@ Contributors: Hanlei Zhang, Shaojie Zhao, Kang Zhao, Ting-En Lin, Rui Lyu.
 * Junyuan Xie, Ross Girshick and Ali Farhadi. 2016. **Unsupervised Deep Embedding for Clustering Analysis**.  In *Proceedings of ICML 2016*. [[paper](https://dl.acm.org/doi/10.5555/3045390.3045442)] [[code](https://github.com/piiswrong/dec)]
 * Zhiguo Wang, Haitao Mi and Abraham Ittycheriah. 2016. **Semi-supervised Clustering for Short Text via Deep Representation Learning**.  In *Proceedings of CoNLL 2016*. [[paper](https://www.aclweb.org/anthology/K16-1004.pdf)]
 * Jiaming Xu, Peng Wang, Guanhua Tian, Bo Xu, Jun Zhao, Fangyuan Wang and Hongwei Hao. 2015. **Short Text Clustering via Convolutional Neural Networks**.  In *Proceedings of ACL Workshop 2015*. [[paper](https://www.aclweb.org/anthology/W15-1509.pdf)] [[dataset](https://github.com/jacoxu/StackOverflow)]
+
+## Acknowledgements
+
+Contributors: [Hanlei Zhang](https://github.com/HanleiZhang), [Shaojie Zhao](https://github.com/MurraryZhao), [Ting-En Lin](https://github.com/tnlin).
+
+We thank [TaoCesc](https://github.com/TaoCesc) for paper recommendation.
 
 <!-- <h2 id="Multimodality">Multimodality</h2> 
 
