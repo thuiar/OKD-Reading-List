@@ -42,7 +42,8 @@ Our list is still incomplete and the taxonomy may be inappropriate. We will keep
 
 <h3 id="Out-of-domain_Detection">Out-of-domain Detection</h3> 
 
-* Wenxuan Zhou, Fangyu Liu, Muhao Chen. **Contrastive Out-of-Distribution Detection for Pretrained Transformers**.  In *Proceedings of EMNLP 2021*. [[paper](https://aclanthology.org/2021.emnlp-main.84)][[code](https://github.com/wzhouad/Contra-OOD)]
+* Udit Arora, William Huang, He He. **Types of Out-of-Distribution Texts and How to Detect Them**. In *Proceedings of EMNLP 2021*. [[paper](https://aclanthology.org/2021.emnlp-main.835.pdf)] [[code](https://github.com/uditarora/ood-text-emnlp)]
+* Wenxuan Zhou, Fangyu Liu, Muhao Chen. **Contrastive Out-of-Distribution Detection for Pretrained Transformers**.  In *Proceedings of EMNLP 2021*. [[paper](https://aclanthology.org/2021.emnlp-main.84)] [[code](https://github.com/wzhouad/Contra-OOD)]
 * Xiaoya Li, Jiwei Li, Xiaofei Sun, Chun Fan, Tianwei Zhang, Fei Wu, Yuxian Meng, Jun Zhang. 2021. **kFolden: k-Fold Ensemble for Out-of-Distribution Detection**. In *Proceedings of EMNLP 2021*. [[paper](https://aclanthology.org/2021.emnlp-main.248/)][[code](https://github.com/ShannonAI/kfolden-ood-detection)]
 * Yilin Shen, Yen-Chang Hsu, Avik Ray, Hongxia Jin. 2021. **Enhancing the generalization for Intent Classification and Out-of-Domain Detection in SLU**. In *Proceedings of ACL-IJCNLP 2021*. [[paper](https://arxiv.org/pdf/2106.14464.pdf)]
 * Yinhe Zheng, Guanyi Chen, and Minlie Huang. 2020. **Out-of-domain Detection for Natural Language Understanding in Dialog Systems**. *IEEE Transactions on Audio, Speech and Language Processing*. [[paper](https://ieeexplore.ieee.org/document/9052492)]
