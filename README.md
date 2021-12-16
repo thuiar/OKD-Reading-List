@@ -144,7 +144,7 @@ Our list is still incomplete and the taxonomy may be inappropriate. We will keep
 
 ## Acknowledgements
 
-Contributors: [Hanlei Zhang](https://github.com/HanleiZhang), [Shaojie Zhao](https://github.com/MurraryZhao), [Ting-En Lin](https://github.com/tnlin).
+Contributors: [Hanlei Zhang](https://github.com/HanleiZhang), [Shaojie Zhao](https://github.com/MurraryZhao), [Ting-En Lin](https://github.com/tnlin), [Kang Zhao](https://github.com/zhao9797).
 
 We thank [TaoCesc](https://github.com/TaoCesc) for paper recommendation.
 
