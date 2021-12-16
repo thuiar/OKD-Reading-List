@@ -42,6 +42,7 @@ Our list is still incomplete and the taxonomy may be inappropriate. We will keep
 
 <h3 id="Out-of-domain_Detection">Out-of-domain Detection</h3> 
 
+* Derek Chen, Zhou Yu. **GOLD: Improving Out-of-Scope Detection in Dialogues using Data Augmentation**. In *Proceedings of EMNLP 2021*. [[paper](https://aclanthology.org/2021.emnlp-main.35.pdf)] [[code](https://github.com/asappresearch/gold)]
 * Udit Arora, William Huang, He He. **Types of Out-of-Distribution Texts and How to Detect Them**. In *Proceedings of EMNLP 2021*. [[paper](https://aclanthology.org/2021.emnlp-main.835.pdf)] [[code](https://github.com/uditarora/ood-text-emnlp)]
 * Wenxuan Zhou, Fangyu Liu, Muhao Chen. **Contrastive Out-of-Distribution Detection for Pretrained Transformers**.  In *Proceedings of EMNLP 2021*. [[paper](https://aclanthology.org/2021.emnlp-main.84)] [[code](https://github.com/wzhouad/Contra-OOD)]
 * Xiaoya Li, Jiwei Li, Xiaofei Sun, Chun Fan, Tianwei Zhang, Fei Wu, Yuxian Meng, Jun Zhang. 2021. **kFolden: k-Fold Ensemble for Out-of-Distribution Detection**. In *Proceedings of EMNLP 2021*. [[paper](https://aclanthology.org/2021.emnlp-main.248/)][[code](https://github.com/ShannonAI/kfolden-ood-detection)]
