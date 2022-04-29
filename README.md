@@ -29,10 +29,12 @@ Our list is still incomplete and the taxonomy may be inappropriate. We will keep
 
 <h3 id="Open_Intent_Detection">Open Intent Detection</h3> 
 
+* Hanlei Zhang, Hua Xu, Shaojie Zhao, Qianrui Zhou. 2022. **Towards Open Intent Detection**. arXiv. [[paper](https://arxiv.org/pdf/2203.05823.pdf)] [[code](https://github.com/thuiar/TEXTOIR)]
 * Liming Zhan, Haowen Liang, Bo Liu, Lu Fan, Xiaoming Wu, Albert Y.S. Lam. 2021. **Out-of-Scope Intent Detection with Self-Supervision and Discriminative Training**. In *Proceedings of ACL-IJCNLP 2021*. [[paper](https://arxiv.org/pdf/2106.08616.pdf)] [[code](https://github.com/liam0949/DCLOOS)]
 * Hanlei Zhang, Hua Xu and Ting-En Lin. 2021. **Deep Open Intent Classification with Adaptive Decision Boundary**. In *Proceedings of AAAI 2021*. [[paper](https://arxiv.org/pdf/2012.10209.pdf)] [[code](https://github.com/thuiar/Adaptive-Decision-Boundary)]
 * Guangfeng Yan, Lu Fan, Qimai Li, Han Liu, Xiaotong Zhang, Xiao-Ming Wu and Albert Y.S. Lam. 2020. **Unknown Intent Detection Using Gaussian Mixture Model with an Application to Zero-shot Intent Classification**. In *Proceedings of ACL 2020*. [[paper](https://www.aclweb.org/anthology/2020.acl-main.99.pdf)] [[code](https://github.com/fanolabs/0shot-classification)]
 * Iñigo Casanueva, Tadas Temčinas, Daniela Gerz, Matthew Henderson, Ivan Vulić. 2020. **Efficient Intent Detection with Dual Sentence Encoders**. In *Proceedings of ACL 2020*. [[paper](https://www.aclweb.org/anthology/2020.nlp4convai-1.5.pdf)] [[dataset](https://github.com/PolyAI-LDN/task-specific-datasets)]
+* Ting-En Lin and Hua Xu. 2019. **A post-processing framework for detecting unknown intent of dialogue system via pre-trained deep neural network classifier**. In *Knowledge-based Systems*. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705119304034)] [[code](https://github.com/tnlin/SMDN)]
 * Ting-En Lin and Hua Xu. 2019. **Deep Unknown Intent Detection with Margin Loss**. In *Proceedings of ACL 2019*. [[paper](https://www.aclweb.org/anthology/P19-1548.pdf)] [[code](https://github.com/thuiar/DeepUnkID)]
 * Congying Xia, Chenwei Zhang, Xiaohui Yan, Yi Chang and Philip S. Yu. 2018. **Zero-shot User Intent Detection via Capsule Neural Networks**. In *Proceedings of EMNLP 2018*. [[paper](https://www.aclweb.org/anthology/D18-1348.pdf)] [[code](https://github.com/congyingxia/ZeroShotCapsule)]
 
