@@ -97,6 +97,7 @@ Our list is still incomplete and the taxonomy may be inappropriate. We will keep
 
 <h3 id="Open_Set_Recognition">Open Set Recognition / Open World Classification</h3> 
 
+* Chuanxing Geng, Sheng-Jun Huang, and Songcan Chen. 2021. **Recent advances in open set recognition: A survey**. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9040673)]
 * Da-Wei Zhou, Han-Jia Ye, De-Chuan Zhan. 2021. **Learning Placeholders for Open-Set Recognition**. In *Proceedings of CVPR 2021.* [[paper](https://arxiv.org/pdf/2103.15086.pdf)]
 * Hong-Ming Yang, Xu-Yao Zhang, Fei Yin, Qing Yang and Cheng-Lin Liu. 2020. **Convolutional Prototype Network for Open Set Recognition**. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. [[paper](https://ieeexplore.ieee.org/abstract/document/9296325)] 
 * Chuanxing Geng and Songcan Chen. 2020. **Collective decision for open set recognition**. *IEEE Transactions on Knowledge and Data Engineering*. [[paper](https://ieeexplore.ieee.org/abstract/document/9296325)] 
