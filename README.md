@@ -41,6 +41,7 @@ Our list is still incomplete and the taxonomy may be inappropriate. We will keep
 
 <h3 id="Out-of-domain_Detection">Out-of-domain Detection</h3> 
 
+* Di Jin, Shuyang Gao, Seokhwan Kim, Yang Liu, and Dilek Hakkani-Tür. 2022. **Towards Textual Out-of-Domain Detection Without In-Domain Labels**. *IEEE Transactions on Audio, Speech and Language Processing*. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9741317)]
 * Derek Chen, Zhou Yu. **GOLD: Improving Out-of-Scope Detection in Dialogues using Data Augmentation**. In *Proceedings of EMNLP 2021*. [[paper](https://aclanthology.org/2021.emnlp-main.35.pdf)] [[code](https://github.com/asappresearch/gold)]
 * Udit Arora, William Huang, He He. **Types of Out-of-Distribution Texts and How to Detect Them**. In *Proceedings of EMNLP 2021*. [[paper](https://aclanthology.org/2021.emnlp-main.835.pdf)] [[code](https://github.com/uditarora/ood-text-emnlp)]
 * Wenxuan Zhou, Fangyu Liu, Muhao Chen. **Contrastive Out-of-Distribution Detection for Pretrained Transformers**.  In *Proceedings of EMNLP 2021*. [[paper](https://aclanthology.org/2021.emnlp-main.84)] [[code](https://github.com/wzhouad/Contra-OOD)]
