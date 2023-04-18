@@ -29,7 +29,7 @@ Our list is still incomplete and the taxonomy may be inappropriate. We will keep
 
 <h3 id="Open_Intent_Detection">Open Intent Detection</h3> 
 
-* Hanlei Zhang, Hua Xu, Shaojie Zhao, Qianrui Zhou. 2022. **Learning Discriminative Representations and Decision Boundaries for Open Intent Detection**. arXiv. [[paper](https://arxiv.org/pdf/2203.05823.pdf)] [[code](https://github.com/thuiar/TEXTOIR)]
+* Hanlei Zhang, Hua Xu, Shaojie Zhao, Qianrui Zhou. 2023. **Learning Discriminative Representations and Decision Boundaries for Open Intent Detection**. *IEEE Transactions on Audio, Speech and Language Processing*.  [[paper](https://ieeexplore.ieee.org/document/10097558)] [[code](https://github.com/thuiar/TEXTOIR)]
 * Zifeng Cheng ,Zhiwei Jiang, Yafeng Yin, Cong Wang, and Qing Gu. 2022. **Learning to Classify Open Intent via Soft Labeling and Manifold Mixup**. *IEEE Transactions on Audio, Speech and Language Processing*. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9693239)] [[code](https://github.com/zifengcheng/SLMM)]
 * Liming Zhan, Haowen Liang, Bo Liu, Lu Fan, Xiaoming Wu, Albert Y.S. Lam. 2021. **Out-of-Scope Intent Detection with Self-Supervision and Discriminative Training**. In *Proceedings of ACL-IJCNLP 2021*. [[paper](https://arxiv.org/pdf/2106.08616.pdf)] [[code](https://github.com/liam0949/DCLOOS)]
 * Hanlei Zhang, Hua Xu and Ting-En Lin. 2021. **Deep Open Intent Classification with Adaptive Decision Boundary**. In *Proceedings of AAAI 2021*. [[paper](https://arxiv.org/pdf/2012.10209.pdf)] [[code](https://github.com/thuiar/Adaptive-Decision-Boundary)]
