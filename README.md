@@ -68,7 +68,7 @@ Our list is still incomplete and the taxonomy may be inappropriate. We will keep
 
 <h3 id="New_Intent_Discovery">New Intent Discovery</h3> 
 
-* Hanlei Zhang, Hua Xu, Xin Wang, Fei Long, Kai Gao. 2023. **USNID: A Framework for Unsupervised and Semi-supervised New Intent Discovery**. arXiv. [[paper](https://arxiv.org/abs/2304.07699)] 
+* Hanlei Zhang, Hua Xu, Xin Wang, Fei Long, Kai Gao. 2023. **A Clustering Framework for Unsupervised and Semi-supervised New Intent Discovery**. *IEEE Transactions on Knowledge and Data Engineering*. [[paper](https://ieeexplore.ieee.org/document/10349963)] 
 * Yuwei Zhang, Haode Zhang, Li-Ming Zhan, Xiao-Ming Wu, Albert Y.S. Lam. 2022. **New intent discovery with pre-training and contrastive learning**. In *Proceedings of ACL 2022*. [[paper](https://aclanthology.org/2022.acl-long.21/)] [[code](https://github.com/fanolabs/NID_ACLARR2022)]
 * Hanlei Zhang, Hua Xu, Ting-En Lin and Rui Lyu. 2021. **Discovering New Intents with Deep Aligned Clustering**. In *Proceedings of AAAI 2021*. [[paper](https://arxiv.org/pdf/2012.08987.pdf)] [[code](https://github.com/thuiar/DeepAligned-Clustering)]
 * Nikhita Vedula, Nedim Lipka, Pranav Maneriker and Srinivasan Parthasarathy. **Open Intent Extraction from Natural Language Interactions**.  In *Proceedings of WWW 2020*. [[paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380268)]  
